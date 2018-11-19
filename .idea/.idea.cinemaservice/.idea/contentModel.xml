@@ -37,7 +37,6 @@
         </e>
         <e p="Program.cs" t="Include" />
         <e p="Startup.cs" t="Include" />
-        <e p="testrun.txt" t="Include" />
       </e>
       <e p="cinemaservice.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
@@ -52,8 +51,6 @@
           </e>
         </e>
         <e p="test.csproj" t="IncludeRecursive" />
-        <e p="testrun.host.18-11-19_16-33-58_26205_4.txt" t="Include" />
-        <e p="testrun.txt" t="Include" />
         <e p="UnitTest1.cs" t="Include" />
       </e>
     </e>

@@ -1,0 +1,95 @@
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.177, 8239674415262, vstest.console.dll, Using .Net Framework version:.NETCoreApp,Version=v2.1
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.325, 8239815100882, vstest.console.dll, AssemblyResolver.ctor: Creating AssemblyResolver with searchDirectories /usr/local/share/dotnet/sdk/2.1.403/Extensions,/usr/local/share/dotnet/sdk/2.1.403
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.327, 8239817046400, vstest.console.dll, TestPluginCache: Discovering the extensions using extension path.
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.327, 8239817403794, vstest.console.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories /usr/local/share/dotnet/sdk/2.1.403/Extensions,/usr/local/share/dotnet/sdk/2.1.403
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.327, 8239817609802, vstest.console.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories /usr/local/share/dotnet/sdk/2.1.403/Extensions,/usr/local/share/dotnet/sdk/2.1.403
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.327, 8239817778565, vstest.console.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories /usr/local/share/dotnet/sdk/2.1.403/Extensions,/usr/local/share/dotnet/sdk/2.1.403
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.328, 8239817928139, vstest.console.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories /usr/local/share/dotnet/sdk/2.1.403/Extensions,/usr/local/share/dotnet/sdk/2.1.403
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.328, 8239818743190, vstest.console.dll, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger: Resolving assembly.
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.331, 8239821561294, vstest.console.dll, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger, from path: /usr/local/share/dotnet/sdk/2.1.403/Extensions/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.dll
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.338, 8239828218680, vstest.console.dll, AssemblyResolver.OnResolve: Microsoft.TestPlatform.Extensions.BlameDataCollector: Resolving assembly.
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.340, 8239830230812, vstest.console.dll, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.TestPlatform.Extensions.BlameDataCollector, from path: /usr/local/share/dotnet/sdk/2.1.403/Extensions/Microsoft.TestPlatform.Extensions.BlameDataCollector.dll
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.340, 8239830686379, vstest.console.dll, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider: Resolving assembly.
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.342, 8239832422816, vstest.console.dll, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.TestPlatform.TestHostRuntimeProvider, from path: /usr/local/share/dotnet/sdk/2.1.403/Extensions/Microsoft.TestPlatform.TestHostRuntimeProvider.dll
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.344, 8239833917992, vstest.console.dll, AssemblyResolver.OnResolve: Microsoft.TestPlatform.Extensions.EventLogCollector: Resolving assembly.
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.345, 8239834970578, vstest.console.dll, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.TestPlatform.Extensions.EventLogCollector, from path: /usr/local/share/dotnet/sdk/2.1.403/Extensions/Microsoft.TestPlatform.Extensions.EventLogCollector.dll
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.347, 8239836973976, vstest.console.dll, TestPluginCache: Discovered the extensions using extension path ''.
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.347, 8239837135925, vstest.console.dll, TestPluginCache: Discoverers are ''.
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.347, 8239837255351, vstest.console.dll, TestPluginCache: Executors are ''.
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.347, 8239837396169, vstest.console.dll, TestPluginCache: Setting providers are ''.
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.347, 8239837537552, vstest.console.dll, TestPluginCache: Loggers are ''.
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.357, 8239847403616, vstest.console.dll, RunTestsArgumentProcessor:Execute: Test run is starting.
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.357, 8239847623121, vstest.console.dll, RunTestsArgumentProcessor:Execute: Queuing Test run.
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.358, 8239847873311, vstest.console.dll, TestRequestManager.RunTests: run tests started.
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.369, 8239859289465, vstest.console.dll, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETCoreApp,Version=v2.1' for source: '/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/bin/Debug/netcoreapp2.1/app.dll'
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.369, 8239859572139, vstest.console.dll, Determined framework for all sources: .NETCoreApp,Version=v2.1
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.372, 8239862015775, vstest.console.dll, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: /Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/bin/Debug/netcoreapp2.1/app.dll
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.374, 8239864519870, vstest.console.dll, Determined platform for all sources: X86
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.377, 8239867612853, vstest.console.dll, Compatible sources list : 
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.377, 8239867758835, vstest.console.dll, /Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/bin/Debug/netcoreapp2.1/app.dll
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.382, 8239872718346, vstest.console.dll, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.390, 8239879806234, vstest.console.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DefaultTestHostManager
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.390, 8239880233099, vstest.console.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DotnetTestHostManager
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.390, 8239880678137, vstest.console.dll, TestEngine: Initializing Parallel Execution as MaxCpuCount is set to: 1
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.391, 8239880977283, vstest.console.dll, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.400, 8239890785708, vstest.console.dll, TestRequestSender is acting as server
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.402, 8239892602282, vstest.console.dll, TestRunRequest.ExecuteAsync: Creating test run request.
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.403, 8239893192842, vstest.console.dll, TestRunRequest.ExecuteAsync: Starting.
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.403, 8239893485772, vstest.console.dll, TestRunRequest.ExecuteAsync: Starting run with settings:TestRunCriteria:
+   KeepAlive=False,FrequencyOfRunStatsChangeEvent=10,RunStatsChangeEventTimeout=00:00:01.5000000,TestCaseFilter=,TestExecutorLauncher=
+   Settingsxml=<RunSettings>
+  <RunConfiguration>
+    <ResultsDirectory>/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/TestResults</ResultsDirectory>
+    <TargetPlatform>X86</TargetPlatform>
+    <TargetFrameworkVersion>.NETCoreApp,Version=v2.1</TargetFrameworkVersion>
+    <DesignMode>False</DesignMode>
+    <CollectSourceInformation>False</CollectSourceInformation>
+  </RunConfiguration>
+  <LoggerRunSettings>
+    <Loggers>
+      <Logger friendlyName="Console" uri="logger://microsoft/TestPlatform/ConsoleLogger/v1" assemblyQualifiedName="Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" codeBase="/usr/local/share/dotnet/sdk/2.1.403/vstest.console.dll" enabled="True" />
+    </Loggers>
+  </LoggerRunSettings>
+</RunSettings>
+
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.403, 8239893641231, vstest.console.dll, TestRunRequest.ExecuteAsync: Wait for the first run request is over.
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.404, 8239894220375, vstest.console.dll, ParallelProxyExecutionManager: Start execution. Total sources: 1
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.405, 8239894974211, vstest.console.dll, ProxyParallelExecutionManager: Triggering test run for next source: /Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/bin/Debug/netcoreapp2.1/app.dll
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.405, 8239895184978, vstest.console.dll, ProxyParallelExecutionManager: No sources available for execution.
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.405, 8239895223727, vstest.console.dll, ParallelProxyExecutionManager: Execution started. Started clients: 1
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.405, 8239895340015, vstest.console.dll, TestRunRequest.ExecuteAsync: Started.
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.405, 8239895664943, vstest.console.dll, ProxyExecutionManager: Test host is always Lazy initialize.
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.405, 8239895686064, vstest.console.dll, TestRunRequest.WaitForCompletion: Waiting with timeout -1.
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.406, 8239896368463, vstest.console.dll, TestRequestSender.InitializeCommunication: initialize communication. 
+TpTrace Information: 0 : 3802, 5, 2018/11/19, 16:33:57.412, 8239902737054, vstest.console.dll, SocketServer.Start: Listening on endpoint : 127.0.0.1:55306
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.425, 8239915635604, vstest.console.dll, DotnetTestHostmanager: Full path of dotnet.exe is /usr/local/share/dotnet/dotnet
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.426, 8239916022686, vstest.console.dll, DotnetTestHostmanager: Adding  --runtimeconfig "/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/bin/Debug/netcoreapp2.1/app.runtimeconfig.json" in args
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.426, 8239916210917, vstest.console.dll, DotnetTestHostmanager: Adding  --depsfile "/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/bin/Debug/netcoreapp2.1/app.deps.json" in args
+TpTrace Information: 0 : 3802, 5, 2018/11/19, 16:33:57.426, 8239916435764, vstest.console.dll, AssemblyResolver.OnResolve: Microsoft.Extensions.DependencyModel: Resolving assembly.
+TpTrace Information: 0 : 3802, 5, 2018/11/19, 16:33:57.427, 8239917033807, vstest.console.dll, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.Extensions.DependencyModel, from path: /usr/local/share/dotnet/sdk/2.1.403/Microsoft.Extensions.DependencyModel.dll
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.427, 8239917355356, vstest.console.dll, DotnetTestHostmanager: Reading file /Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/bin/Debug/netcoreapp2.1/app.deps.json to get path of testhost.dll
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.466, 8239956738186, vstest.console.dll, DotnetTestHostmanager: Looking for path  in folder /Users/alexanderhe/.dotnet/store/|arch|/|tfm|
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.467, 8239956990670, vstest.console.dll, DotnetTestHostmanager: Looking for path  in folder /Users/alexanderhe/.nuget/packages
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.467, 8239957134477, vstest.console.dll, DotnetTestHostmanager: Looking for path  in folder /usr/local/share/dotnet/sdk/NuGetFallbackFolder
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.467, 8239957318818, vstest.console.dll, DotnetTestHostManager: Assume published test project, with test host path = /Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/bin/Debug/netcoreapp2.1/testhost.dll.
+TpTrace Information: 0 : 3802, 5, 2018/11/19, 16:33:57.467, 8239957763567, vstest.console.dll, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider.resources: Resolving assembly.
+TpTrace Information: 0 : 3802, 5, 2018/11/19, 16:33:57.468, 8239957948502, vstest.console.dll, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider.resources: Failed to load assembly.
+TpTrace Information: 0 : 3802, 5, 2018/11/19, 16:33:57.468, 8239958626901, vstest.console.dll, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider.resources: Resolving assembly.
+TpTrace Information: 0 : 3802, 5, 2018/11/19, 16:33:57.468, 8239958768788, vstest.console.dll, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider.resources: Resolved from cache.
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.469, 8239959027270, vstest.console.dll, DotnetTestHostmanager: Unable to find tests for /Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/bin/Debug/netcoreapp2.1/app.dll. Make sure test project has a nuget reference of package "Microsoft.NET.Test.Sdk" and framework version settings are appropriate. Rerun with /diag option to diagnose further.
+TpTrace Error: 0 : 3802, 5, 2018/11/19, 16:33:57.479, 8239968920319, vstest.console.dll, ProxyExecutionManager.StartTestRun: Failed to start test run: System.IO.FileNotFoundException: Unable to find tests for /Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/bin/Debug/netcoreapp2.1/app.dll. Make sure test project has a nuget reference of package "Microsoft.NET.Test.Sdk" and framework version settings are appropriate. Rerun with /diag option to diagnose further.
+   at Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DotnetTestHostManager.GetTestHostProcessStartInfo(IEnumerable`1 sources, IDictionary`2 environmentVariables, TestRunnerConnectionInfo connectionInfo)
+   at Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Client.ProxyOperationManager.SetupChannel(IEnumerable`1 sources)
+   at Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Client.ProxyExecutionManager.StartTestRun(TestRunCriteria testRunCriteria, ITestRunEventsHandler eventHandler)
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.543, 8240032965261, vstest.console.dll, TestRunRequest:SendTestRunMessage: Starting.
+TpTrace Information: 0 : 3802, 5, 2018/11/19, 16:33:57.545, 8240035459252, vstest.console.dll, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Warning: 0 : 3802, 5, 2018/11/19, 16:33:57.560, 8240050682177, vstest.console.dll, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.561, 8240051302837, vstest.console.dll, ParallelProxyExecutionManager: HandlePartialRunComplete: Total completed clients = 1, Run complete = True, Run canceled: False.
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.573, 8240062985609, vstest.console.dll, TestRunRequest:TestRunComplete: Starting. IsAborted:True IsCanceled:False.
+TpTrace Verbose: 0 : 3802, 5, 2018/11/19, 16:33:57.573, 8240063301919, vstest.console.dll, TestLoggerManager.HandleTestRunComplete: Ignoring as the object is disposed.
+TpTrace Information: 0 : 3802, 5, 2018/11/19, 16:33:57.573, 8240063501011, vstest.console.dll, TestRunRequest:TestRunComplete: Completed.
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.573, 8240063563341, vstest.console.dll, TestRunRequest.Dispose: Starting.
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.574, 8240063802622, vstest.console.dll, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.574, 8240063940742, vstest.console.dll, TestRequestManager.RunTests: run tests completed.
+TpTrace Information: 0 : 3802, 1, 2018/11/19, 16:33:57.574, 8240064098190, vstest.console.dll, RunTestsArgumentProcessor:Execute: Test run is completed.
+TpTrace Verbose: 0 : 3802, 1, 2018/11/19, 16:33:57.574, 8240064238256, vstest.console.dll, Executor.Execute: Exiting with exit code of 1

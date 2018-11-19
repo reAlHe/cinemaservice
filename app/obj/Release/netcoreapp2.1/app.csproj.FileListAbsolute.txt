@@ -1,0 +1,11 @@
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/bin/Release/netcoreapp2.1/app.deps.json
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/bin/Release/netcoreapp2.1/app.runtimeconfig.json
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/bin/Release/netcoreapp2.1/app.runtimeconfig.dev.json
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/bin/Release/netcoreapp2.1/app.dll
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/bin/Release/netcoreapp2.1/app.pdb
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/obj/Release/netcoreapp2.1/app.csprojAssemblyReference.cache
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/obj/Release/netcoreapp2.1/app.csproj.CoreCompileInputs.cache
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/obj/Release/netcoreapp2.1/app.AssemblyInfoInputs.cache
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/obj/Release/netcoreapp2.1/app.AssemblyInfo.cs
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/obj/Release/netcoreapp2.1/app.dll
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/app/obj/Release/netcoreapp2.1/app.pdb

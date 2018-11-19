@@ -1,0 +1,17 @@
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/bin/Debug/netcoreapp2.1/test.deps.json
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.json
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.dev.json
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/bin/Debug/netcoreapp2.1/test.dll
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/bin/Debug/netcoreapp2.1/test.pdb
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/bin/Debug/netcoreapp2.1/app.dll
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/bin/Debug/netcoreapp2.1/app.pdb
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/obj/Debug/netcoreapp2.1/test.csprojAssemblyReference.cache
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/obj/Debug/netcoreapp2.1/test.csproj.CoreCompileInputs.cache
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/obj/Debug/netcoreapp2.1/test.AssemblyInfoInputs.cache
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/obj/Debug/netcoreapp2.1/test.AssemblyInfo.cs
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/obj/Debug/netcoreapp2.1/test.csproj.CopyComplete
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/obj/Debug/netcoreapp2.1/test.dll
+/Users/alexanderhe/MWProjects/dotnetPlayground/cinemaservice/test/obj/Debug/netcoreapp2.1/test.pdb

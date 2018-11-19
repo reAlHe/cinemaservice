@@ -13,5 +13,5 @@ steps:
 - script: dotnet build --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
   
-- script: dotnet test --configuration $(buildConfiguration)
+- script: dotnet test ./test/test.csproj
   displayName: 'test'
